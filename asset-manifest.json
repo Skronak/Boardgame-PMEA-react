@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/moustacheInvestigation/static/css/main.a17d7e45.css",
+    "main.js": "/moustacheInvestigation/static/js/main.e9d8c886.js",
+    "static/media/avatar-innocent.png": "/moustacheInvestigation/static/media/avatar-innocent.dafe8b5dbe4d49b4ec5d.png",
+    "static/media/avatar-criminal.png": "/moustacheInvestigation/static/media/avatar-criminal.798e0889f6f43bf74896.png",
+    "static/media/avatar-detective.png": "/moustacheInvestigation/static/media/avatar-detective.f26714751aa74a1351ea.png",
+    "index.html": "/moustacheInvestigation/index.html",
+    "static/media/preview.svg": "/moustacheInvestigation/static/media/preview.80976816c1d0a10e0c57b7f1e75d5c3f.svg",
+    "main.a17d7e45.css.map": "/moustacheInvestigation/static/css/main.a17d7e45.css.map",
+    "main.e9d8c886.js.map": "/moustacheInvestigation/static/js/main.e9d8c886.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a17d7e45.css",
+    "static/js/main.e9d8c886.js"
+  ]
+}
